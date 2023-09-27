@@ -1,0 +1,3 @@
+﻿  06.cpp
+D:\vs谭\06实型\06实型\06.cpp(26,11): warning C4305: “初始化”: 从“double”到“float”截断
+  06实型.vcxproj -> D:\vs谭\06实型\x64\Debug\06实型.exe
